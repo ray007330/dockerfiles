@@ -1,0 +1,316 @@
+dhrystone:
+1
+Microseconds for one run through Dhrystone: 1115
+Dhrystones per Second:                      896
+mcycle = 557936
+minstret = 201578
+2
+Microseconds for one run through Dhrystone: 1077
+Dhrystones per Second:                      927
+mcycle = 539075
+minstret = 201355
+3
+Microseconds for one run through Dhrystone: 1084
+Dhrystones per Second:                      922
+mcycle = 542214
+minstret = 201360
+4
+Microseconds for one run through Dhrystone: 1090
+Dhrystones per Second:                      916
+mcycle = 545513
+minstret = 201548
+5
+Microseconds for one run through Dhrystone: 1054
+Dhrystones per Second:                      948
+mcycle = 527386
+minstret = 201355
+6
+Microseconds for one run through Dhrystone: 1149
+Dhrystones per Second:                      870
+mcycle = 574790
+minstret = 201746
+7
+Microseconds for one run through Dhrystone: 1165
+Dhrystones per Second:                      857
+mcycle = 582962
+minstret = 201766
+8
+Microseconds for one run through Dhrystone: 1102
+Dhrystones per Second:                      906
+mcycle = 551369
+minstret = 201563
+9
+Microseconds for one run through Dhrystone: 1103
+Dhrystones per Second:                      906
+mcycle = 551704
+minstret = 201578
+10
+Microseconds for one run through Dhrystone: 1104
+Dhrystones per Second:                      905
+mcycle = 552352
+minstret = 201578
+11
+Microseconds for one run through Dhrystone: 1093
+Dhrystones per Second:                      914
+mcycle = 546999
+minstret = 201603
+12
+Microseconds for one run through Dhrystone: 1098
+Dhrystones per Second:                      910
+mcycle = 549202
+minstret = 201558
+13
+Microseconds for one run through Dhrystone: 1095
+Dhrystones per Second:                      913
+mcycle = 547675
+minstret = 201553
+
+median:
+1
+mcycle = 8863
+minstret = 4159
+2
+mcycle = 8817
+minstret = 4159
+3
+mcycle = 8881
+minstret = 4159
+4
+mcycle = 8864
+minstret = 4159
+5
+mcycle = 8864
+minstret = 4159
+6
+mcycle = 8789
+minstret = 4159
+7
+mcycle = 8789
+minstret = 4159
+8
+mcycle = 9337
+minstret = 4159
+9
+mcycle = 9315
+minstret = 4159
+10
+mcycle = 9292
+minstret = 4159
+11
+mcycle = 9390
+minstret = 4159
+12
+mcycle = 9330
+minstret = 4159
+13
+mcycle = 9361
+minstret = 4159
+
+multiply:
+1
+mcycle = 44964
+minstret = 24490
+2
+mcycle = 44947
+minstret = 24490
+3
+mcycle = 45032
+minstret = 24490
+4
+mcycle = 45111
+minstret = 24490
+5
+mcycle = 45112
+minstret = 24490
+6
+mcycle = 44900
+minstret = 24490
+7
+mcycle = 44892
+minstret = 24490
+8
+mcycle = 45091
+minstret = 24490
+9
+mcycle = 45096
+minstret = 24495
+10
+mcycle = 45101
+minstret = 24495
+11
+mcycle = 45127
+minstret = 24490
+12
+mcycle = 45112
+minstret = 24490
+13
+mcycle = 45244
+minstret = 24495
+
+qsort:
+1
+mcycle = 269251
+minstret = 126312
+2
+mcycle = 257841
+minstret = 126119
+3
+mcycle = 257034
+minstret = 126119
+4
+mcycle = 254099
+minstret = 126119
+5
+mcycle = 254384
+minstret = 126119
+6
+mcycle = 269251
+minstret = 126312
+7
+mcycle = 269342
+minstret = 126317
+8
+mcycle = 274111
+minstret = 126317
+9
+mcycle = 274363
+minstret = 126312
+10
+mcycle = 274172
+minstret = 126317
+11
+mcycle = 275235
+minstret = 126317
+12
+mcycle = 263335
+minstret = 126129
+13
+mcycle = 263814
+minstret = 126124
+
+rsort:
+1
+mcycle = 900737
+minstret = 179485
+2
+mcycle = 902477
+minstret = 179485
+3
+mcycle = 911861
+minstret = 179683
+4
+mcycle = 884849
+minstret = 179287
+5
+mcycle = 885937
+minstret = 179287
+6
+mcycle = 901048
+minstret = 179510
+7
+mcycle = 900876
+minstret = 179490
+8
+mcycle = 1025081
+minstret = 180638
+9
+mcycle = 1026321
+minstret = 180643
+10
+mcycle = 1026003
+minstret = 180638
+11
+mcycle = 1031835
+minstret = 180638
+12
+mcycle = 1051311
+minstret = 180836
+13
+mcycle = 1051300
+minstret = 180851
+
+towers:
+1
+mcycle = 7497
+minstret = 6170
+2
+mcycle = 7497
+minstret = 6170
+3
+mcycle = 7577
+minstret = 6170
+4
+mcycle = 7577
+minstret = 6170
+5
+mcycle = 7577
+minstret = 6170
+6
+mcycle = 7457
+minstret = 6170
+7
+mcycle = 7476
+minstret = 6170
+8
+mcycle = 7485
+minstret = 6170
+9
+mcycle = 7485
+minstret = 6170
+10
+mcycle = 7499
+minstret = 6170
+11
+mcycle = 7501
+minstret = 6170
+12
+mcycle = 7606
+minstret = 6170
+13
+mcycle = 7599
+minstret = 6170
+
+vvadd:
+1
+mcycle = 11830
+minstret = 2618
+2
+mcycle = 5053
+minstret = 2420
+3
+mcycle = 4808
+minstret = 2420
+4
+mcycle = 4653
+minstret = 2420
+5
+mcycle = 4653
+minstret = 2420
+6
+mcycle = 11830
+minstret = 2618
+7
+mcycle = 11808
+minstret = 2613
+8
+mcycle = 12795
+minstret = 2613
+9
+mcycle = 12872
+minstret = 2618
+10
+mcycle = 13006
+minstret = 2618
+11
+mcycle = 12648
+minstret = 2613
+12
+mcycle = 5476
+minstret = 2420
+13
+mcycle = 5541
+minstret = 2420
+
+pmp, w/ vm v.s. w/o vm
+8
+14
